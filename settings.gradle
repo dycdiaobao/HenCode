@@ -1,0 +1,1 @@
+include ':app', ':07_change_camera_animation', ':09_bitmap_drawable', ':10_layout', ':12scalable', ':13_multi_touch'
